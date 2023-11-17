@@ -8,6 +8,6 @@ This repository contains all of the notes taken by [Upgrayyed0408](https://githu
 
 ## Table of Contents
 
-* [Week 1](/Week_1/)
-  * [Day 1](/Week_1/Day_1/)
-  
+* [Week 1](/week_1/)
+  * [Day 1](/week_1/Day_1/)
+
